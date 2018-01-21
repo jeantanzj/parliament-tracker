@@ -2,7 +2,7 @@
 
 ## Run selenium
 
-`java -Dwebdriver.chrome.driver=chromedrir -jar selenium-server-standalone-3.4.0.jar`
+`java -Dwebdriver.chrome.driver=chromedriver -jar selenium-server-standalone-3.4.0.jar`
 
 ## Save files from Votes and Proceedings
 
